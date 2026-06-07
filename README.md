@@ -82,6 +82,5 @@ npm run dev
 Once both servers are running, open your browser and navigate to:
 [http://localhost:5173](http://localhost:5173) *(or the port specified by Vite in Terminal 2)*
 
-## Project Structure
 
 
