@@ -84,22 +84,4 @@ Once both servers are running, open your browser and navigate to:
 
 ## Project Structure
 
-```
-ai-expense-tracker-master/
-├── client/                  # React frontend
-│   ├── src/
-│   │   ├── components/      # UI components (Recharts, etc.)
-│   │   ├── services/api.ts  # Backend API calls
-│   │   ├── App.tsx          # Main application component
-│   │   ├── types.ts         # TypeScript definitions
-│   │   └── index.html       # HTML Entry point
-│   ├── package.json
-│   └── vite.config.ts       # Vite config
-├── server/                  # Express + Bun backend
-│   ├── src/
-│   │   ├── index.ts         # Express entry point
-│   │   └── db.ts            # SQLite database layer
-│   ├── .env                 # Environment variables
-│   └── package.json         
-└── README.md                # Project documentation
-```
+
