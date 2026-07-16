@@ -6,9 +6,9 @@ An intelligent, AI-powered expense tracking application that helps you manage yo
 
 | Layer | Technology |
 |-------|------|
-| **Frontend** | React 19, TypeScript, Vite, Tailwind CSS, Recharts, Lucide React |
-| **Backend** | Express, Bun, Vercel AI SDK, Google Gemini |
-| **Database** | SQLite (via `bun:sqlite`) |
+| **Frontend** | React 19, TypeScript, Vite, Tailwind CSS, Recharts, Lucide React. |
+| **Backend** | Express, Bun, Vercel AI SDK, Google Gemini. |
+| **Database** | SQLite (via `bun:sqlite`). |
 
 ## Software Required
 
