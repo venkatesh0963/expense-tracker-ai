@@ -1,4 +1,4 @@
-# AI EXPENSE TRACKER
+# AI EXPENSE TRACKER.
 
 An intelligent, AI-powered expense tracking application that helps you manage your finances, categorize expenses, and provides actionable financial insights using Google Gemini AI.
 
